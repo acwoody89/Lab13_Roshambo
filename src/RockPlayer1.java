@@ -5,7 +5,7 @@ public class RockPlayer1 extends Player{
 	@Override
 	public Roshambo generateRoshambo() {
 		
-		return Roshambo.Rock;
+		return Roshambo.ROCK;
 		
 	}
 
